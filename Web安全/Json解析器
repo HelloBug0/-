@@ -1,0 +1,11 @@
+主流的JSON解析器包括但不限于以下几个：
+Jackson - 这是Java中最常用且功能强大的JSON库之一，提供了高性能的序列化和反序列化能力，广泛应用于企业级应用开发。
+Gson - 由Google开发，适用于将Java对象转换为JSON字符串，以及将JSON内容反序列化为等效的Java对象。
+Fastjson - 它是阿里巴巴开发的一个Java语言编写的高性能功能完备的JSON库，特别注重性能方面。
+org.json - 这是Java语言中最早的JSON处理工具包之一，轻量且易于使用。
+JSON.NET（或称 Newtonsoft.Json）- 在.NET框架中被广泛应用的JSON序列化和反序列化工具。
+CJSON - 这是一个C语言实现的轻量级、快速的JSON解析器和生成器，适用于资源受限环境或嵌入式系统。
+Python 中的 json 模块 - Python标准库自带的JSON解析工具，可方便地进行JSON数据与Python字典、列表之间的转换。
+JavaScript 内置支持 - 由于JSON格式源于JavaScript，因此在JavaScript环境中无需额外的库就可以直接解析和生成JSON。
+RapidJSON - C++ JSON解析器和生成器，设计上注重效率和便携性。
+以上这些JSON解析器均在各自适用的语言环境中广受开发者青睐，并在实际项目中有大量应用。
